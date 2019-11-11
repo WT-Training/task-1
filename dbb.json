@@ -1,0 +1,29 @@
+{
+  "locations": {
+    "Goa": {
+      "name": "Goa",
+      "services": {
+        "Restaurants":{ 
+        "Amigos Pure Veg Restaurant":["Aloo Mutter","Aloo Gobi"],
+        "Biryani Street Safari":["Chicken Biryani","Veg Biryani"]
+      },
+        "Grocery Stores": "Hello Grocery",
+        "Bakes and Cafe": "Foodking(BITS Pilani Goa Campus)"
+      }
+    },
+  "Palakkad": {
+    "name": "Palakkad",
+    "services": {
+      "Restaurants": "365 Fine Dine",
+      "Bakes and Cafe": "Amul Icecream Parlour"
+    }
+  },
+  "Trivandrum": {
+    "name": "Trivandrum",
+    "services": {
+      "Grocery Stores": "Seven Ten",
+      "Bakes and Cafe": "MRA Bakery"
+    }
+  }
+}
+}
